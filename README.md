@@ -49,7 +49,7 @@ Visual representations of the application's interface, showcasing alarm, schedul
   - Feedback and Contributions: Contribute to the project or provide feedback to enhance the clock-alarm application.
 
 # Support and Contact
-In case of any issues, refer to dveloper or support forums for troubleshooting or guidance.
+In case of any issues, refer to developer or support forums for troubleshooting or guidance.
 
 
 
