@@ -34,6 +34,32 @@ comprehensive tool for managing their day-to-day activities efficiently.
   - Prerequisites: Ensure Java Runtime Environment (JRE) is installed on your system.
   - Download: Clone or download the repository to your local machine.
   - Run Application: Compile and run the application through a Java IDE or command line.
+
+## Installation Steps
+Follow these steps to install:
+
+ - Step 1: Download or Clone the Repository
+  Download ZIP or Clone the Repository:
+    - GitHub: Visit the repository page on GitHub (provide repository URL) and click on "Clone or download" > "Download ZIP."
+    - Git: Alternatively, if you have Git installed, use git clone <repository URL> in your terminal or command prompt.
+      
+ - Step 2: Set Up Environment
+  Check Java Installation:
+
+  Open a terminal or command prompt and type java -version to confirm that Java is installed and properly configured.
+  Extract ZIP (If downloaded):
+
+If you downloaded a ZIP file, extract it to a location of your choice.
+
+ -Step 3: Build and Run
+Build the Application (if necessary):
+
+Compile the Java files if needed. Use a Java IDE or the command line to compile the source code.
+Run the Application:
+
+Execute the application using the provided executable file or command. For Java applications, you might run a command if it's a runnable JAR file.
+
+
   
 # Usage
   1. Setting Alarms, Schedules/Reminders:
