@@ -43,7 +43,7 @@ comprehensive tool for managing their day-to-day activities efficiently.
 
 # Screenshots
 Visual representations of the application's interface, showcasing alarm, scheduler, and reminder functionalities is found here:
-> src/
+> [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/ClockWithAlarm.jpg)
 
 # Contributing
 
