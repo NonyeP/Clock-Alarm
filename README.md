@@ -69,7 +69,7 @@ Execute the application using the provided executable file or command. For Java 
 
 # Screenshots
 Visual representations of the application's interface, showcasing alarm, scheduler, and reminder functionalities is found here:
-> [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/ClockWithAlarm.jpg)
+> [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/ClockAlarm.png)
 
 # Contributing
   - Feedback and Contributions: Contribute to the project or provide feedback to enhance the clock-alarm application.
